@@ -1,0 +1,13 @@
+// each line is a library item. 
+//   type   unique-id    title   |   author-or-artist-name
+BOOK   43045  Computer Science Hits | Neil Dale and John Lewis
+BOOK   47341  How Computers Work | Ron White
+BOOK   48450  Java: A Beginner's Guide | Herbert Schildt
+CD     48452  Traveller | Chris Staphleton
+CD     48453  How Can It Be Java | Lauren Daigle
+BOOK   45552  Python Programming | John Zelle
+CD     45553  I Still Do Programming | Eric Clapton
+BOOK   45557  Beginning Software Engineering | Rod Stephens
+CD     45561  Best Eagles Dictionary Songs | Eagles
+CD     46555  The Ultimate Computer Hits | Garth Brooks
+// the data file can contain comment lines or blank lines
